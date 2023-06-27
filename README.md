@@ -5,7 +5,7 @@ creating a project remotely
    - remotely
 2. change within a new branch, add & commit
    - remotely
-3. merge it
+3. make a pull request
    - remotely
-5. make a pull request
+5. merge it
    - now guess...
